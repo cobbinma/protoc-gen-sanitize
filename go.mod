@@ -1,4 +1,4 @@
-module github.com/intrinsec/protoc-gen-sanitize
+module github.com/cobbinma/protoc-gen-sanitize
 
 go 1.18
 
